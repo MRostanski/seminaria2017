@@ -22,7 +22,7 @@ System automatycznego rozpoznawania "hejtu" z użyciem Machine Learning - Natali
 
 ## Internet of Things
 -----------------------
-Serwer plików i macierz RAID z użyciem Raspberry PI - realizacja mechanizmów backupu i deduplikacji
+Serwer plików i macierz RAID z użyciem Raspberry PI - realizacja mechanizmów backupu i deduplikacji - Jakub Dobisiak
 
 Odporny na awarie system udostępniania plików z użyciem Raspberry PI
 
