@@ -14,11 +14,11 @@ Aplikacja internetowa do monitoringu baz danych dokumentowych NoSQL
 -------------------
 System ekstrakcji komentarzy w witrynach WWW
 
-Aplikacja internetowa do badań charakteru komentarzy internetowych
+Aplikacja internetowa do badań charakteru komentarzy internetowych - Dariusz Bacharz
 
-System analizy i wizualizacji komentarzy internetowych
+System analizy i wizualizacji komentarzy internetowych 
 
-System automatycznego rozpoznawania "hejtu" z użyciem Machine Learning
+System automatycznego rozpoznawania "hejtu" z użyciem Machine Learning - Natalia Górczewska
 
 ## Internet of Things
 -----------------------
