@@ -28,4 +28,11 @@ Odporny na awarie system udostępniania plików z użyciem Raspberry PI
 
 System monitoringu czadu w oparciu o Arduino i Raspberry Pi
 
-System monitoringu w chmurze działania floty samochodowej 
+System monitoringu w chmurze działania floty samochodowej
+
+Wykorzystanie koncepcji If-this-than-that z użyciem lokalizacji geograficznej i Raspberry Pi - Michał Polak
+
+## Cloud / Security
+
+Automatyzacja systemu testów infrastruktury wirtualnej z użyciem Metasploit - Mateusz Laber
+
