@@ -6,7 +6,7 @@ Zautomatyzowany klaster bazodanowy NoSQL przy użyciu MongoDB
 
 Projekt, realizacja i zagadnienia bezpieczeństwa rozproszonego geograficznie systemu dokumentowej bazy danych
 
-System pomiaru wydajności dokumentowej bazy danych
+System pomiaru wydajności dokumentowej bazy danych - Michał Koterwa
 
 Aplikacja internetowa do monitoringu baz danych dokumentowych NoSQL
 
@@ -14,7 +14,7 @@ Aplikacja internetowa do monitoringu baz danych dokumentowych NoSQL
 -------------------
 System ekstrakcji komentarzy w witrynach WWW
 
-Aplikacja internetowa do badań charakteru komentarzy internetowych - Dariusz Bacharz
+Aplikacja internetowa do badań charakteru komentarzy internetowych - Dariusz Bacharz, Klaudia Stradomska
 
 System analizy i wizualizacji komentarzy internetowych 
 
@@ -34,7 +34,10 @@ Wykorzystanie koncepcji If-this-than-that z użyciem lokalizacji geograficznej i
 
 Projekt i realizacja automatycznej sprzętowej bramy VPN w oparciu o Raspberry Pi - Kamil Błaś
 
+System rozpoznawania obrazów z użyciem Raspberry Pi i Google Vision/Amazon Rekognition - Oleksandr Sokoliuk
+
 ## Cloud / Security
 
 Automatyzacja systemu testów infrastruktury wirtualnej z użyciem Metasploit - Mateusz Laber
 
+Wykorzystanie i automatyzacja systemu kontroli konfiguracji Chef w środowisku konteneryzacyjnym Docker - Kinga Bik
