@@ -32,6 +32,8 @@ System monitoringu samochodu i wizualizacja w aplikacji internetowej/aplikacji m
 
 Wykorzystanie koncepcji If-this-than-that z użyciem lokalizacji geograficznej i Raspberry Pi - Michał Polak
 
+Projekt i realizacja automatycznej sprzętowej bramy VPN w oparciu o Raspberry Pi - Kamil Błaś
+
 ## Cloud / Security
 
 Automatyzacja systemu testów infrastruktury wirtualnej z użyciem Metasploit - Mateusz Laber
