@@ -41,3 +41,5 @@ System rozpoznawania obrazów z użyciem Raspberry Pi i Google Vision/Amazon Rek
 Automatyzacja systemu testów infrastruktury wirtualnej z użyciem Metasploit - Mateusz Laber
 
 Wykorzystanie i automatyzacja systemu kontroli konfiguracji Chef w środowisku konteneryzacyjnym Docker - Kinga Bik
+
+System wsparcia pierwszej linii w zakresie automatyzacji skryptów uruchomieniowych - Artur Dudka
